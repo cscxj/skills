@@ -4,14 +4,6 @@ A personal collection of agent skills for Claude Code, installable via [`npx ski
 
 ## Installation
 
-Install all skills:
-
-```bash
-npx skills add cscxj/skills --all
-```
-
-Install a specific skill:
-
 ```bash
 npx skills add cscxj/skills --skill release-notice
 ```
